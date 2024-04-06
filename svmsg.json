@@ -1,0 +1,11 @@
+{
+    "connectedMsg"      : "```CONNECTED SUCCESSFULLY```",
+    "blockPMMsg"        : "```INBOX HAVE BEEN DISABLED BY BOT OWNER```",
+    "welcomeMsg"        : "```HEY THERE! WELCOME!```",
+    "goodByeMsg"        : "```GOOD BYE BROH, DON'T COME HERE AGAIN```",
+    "rejectCallsMsg"    : "```INCOMING CALLS HAVE BEEN BLOCKED BY BOT OWNER```",
+    "joinedGrp"         : "*Joined the group!*",
+    "invalidGrpLink"    : "*That invite code seems to be invalid.*",
+    "onlyOwnerMsg"      : "*Do you want me to add to your group?*\n\n*How Sad...*\n\n*Only Owner Can Use That!* 🥲",
+    "aliveMsg"          : "*Hey There!*\n*I am alive Now!*\n\nW E B P I C X G R A P H Y\nFollow us!"
+}

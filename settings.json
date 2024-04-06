@@ -1,0 +1,49 @@
+{
+    "ownerName"         : "W E B P I C X G R A P H Y",
+    "ownerNumber"       : "94719270825",
+    "botNumber"         : "94784389996",
+    "ownerChannel"      : "https://whatsapp.com/channel/0029Va8orhgBPzjcYCCHAR3s",
+    "botName"           : "Z Speak • X TALK BOT",
+    "ownerGithub"       : "https://github.com/XTALKBOTS/XTALKBOTS",
+    "ownerYT"           : "https://youtube.com/@WEBPICXGRAPHY",
+
+    "autoSticker"       : "true",
+    "stickerAuthor"     : "Z Speak",
+    "stickerPack"       : "PICXGRAPHY",
+    "autoVoice"         : "false",
+    "autoReply"         : "false",
+    "autoReact"         : "true",
+    "reactOwner"        : "false",
+    "sendWelcomeMsg"    : "false",
+    "sendGoodByeMsg"    : "false",
+    "broadcastOnGrps"   : "true",
+
+    "delGrpLinks"       : "true",
+    "delAdultLinks"     : "true",
+    "blockPM"           : "false",
+    "blockPMMsgSend"    : "false",
+    "antiBadWord"       : "true",
+    "rejectCalls"       : "false",
+    
+    "readAllMsgs"       : "false",
+
+    "globalEmoji"       : "😎",
+    "hugEmoji"          : "🤗",
+    "loveEmoji"         : "😘",
+    "dontLikeEmoji"     : "😒",
+    "smileEmoji"        : "🙂",
+    "smile2Emoji"       : "🥲",
+    "doneEmoji"         : "✅",
+    "errorEmoji"        : "⚠️",
+    "markEmoji"         : "💠",
+
+    "premiumUsers"      : ["",""],
+    "sudoUsers"         : ["94715733954","94702637105","94712538851"],
+
+    "defaultImage"      : "https://example.com/example.png",
+    "welcomeImage"      : "https://example.com/example.png",
+    "goodbyeImage"      : "https://example.com/example.png",
+
+    "prefix"            : "."
+    
+}
