@@ -6,8 +6,8 @@ const { ndown } = require("nayan-media-downloader");
 const net = require('net');
 const express = require('express'); 
 
-const host = 'whatsapp.com'; // Replace with desired ping server
-const port = 80; // Standard port for HTTP requests (often used for ping checks)
+//const host = 'whatsapp.com'; // Replace with desired ping server
+//const port = 80; // Standard port for HTTP requests (often used for ping checks)
 
 
 const client = new Client({
